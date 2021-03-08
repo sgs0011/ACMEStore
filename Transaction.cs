@@ -1,4 +1,4 @@
-﻿using System;/*Steven Shetler, ID: 800226059,
+﻿using System;/*Steven Shetler,
 * The purpose of this application is to allow the user to input product codes and quantities
 * that are listed in the WelcomeMessage method.
 * The inputs are taken from the InputOrder method and printed out through the PrintResults method.
